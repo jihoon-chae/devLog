@@ -56,3 +56,5 @@
 ## Cache
 
 > Cache는 가져오는데 비용이 드는 데이터를 한번 가져온 뒤에는 임시로 저장해놓고 사용한다. ex) 이미지, css, js파일 ..
+
+참조 : [https://interconnection.tistory.com/74](https://interconnection.tistory.com/74)
